@@ -7,5 +7,5 @@ def main(s):
         int: answer
     """
     k="12345678"
-    if s in k: return int(i)
+    if s in k: return int(s)
     return -1
