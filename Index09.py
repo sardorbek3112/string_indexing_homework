@@ -6,4 +6,6 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    k="12345678"
+    if i in k: return int(i)
+    return -1
