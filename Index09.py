@@ -6,6 +6,5 @@ def main(s):
     Returns:
         int: answer
     """
-    k="12345678"
-    if s in k: return int(s)
+    if s == "1" or s == "2" or s == "3" or s == "4" or s == "5" or s == "6" or s == "7" or s == "8" or s == "9": return int(s)
     return -1
