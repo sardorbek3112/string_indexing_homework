@@ -1,6 +1,5 @@
-def num(i):
-    k="12345678"
-    if i in k:return 1
+def num(s):
+    if s == "1" or s == "2" or s == "3" or s == "4" or s == "5" or s == "6" or s == "7" or s == "8" or s == "9":return 1
     return 0
 
 def main(s):
